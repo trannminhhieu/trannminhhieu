@@ -1,4 +1,13 @@
 ## Hi there 👋
+## My name is Tran Minh Hieu, for short, you can call me Hieu
+
+- 🏫 Currently, I'm a undergrad in Vietnamese-German University.
+- 🇻🇳 I'm Vietnamese.
+- 🗣 My perfer language is: English and Vietnamese.
+
+---
+
+
 
 <!--
 **TrannMinhHieu/TrannMinhHieu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
