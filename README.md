@@ -5,7 +5,11 @@
 - 🇻🇳 I'm Vietnamese.
 - 🗣 My perfer language is: English and Vietnamese.
 
----
+## Things I'm confortable working with
+- C++, C
+- Java, JavaScript, CSS
+- Python
+- Linux, Bash
 
 
 
