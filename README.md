@@ -49,7 +49,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
 </div>
 
-###
+## You can contact me through
+- 📞: 0903963612
+- 📧: minh.hieutran020620@gmail.com
 
 <!--
 **TrannMinhHieu/TrannMinhHieu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
